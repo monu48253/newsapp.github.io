@@ -1,0 +1,28 @@
+.container{
+    font-size: 30px;
+    /* background-color:grey; */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 250px;
+
+}
+body{
+    background-color: sky pink;
+    color: red;
+    background-color: black; 
+
+    
+    
+}
+
+.class-autotype{
+    color: red;
+
+}
+
+
+
+
